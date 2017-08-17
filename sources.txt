@@ -1,0 +1,5 @@
+Sources:
+Regions: http://hub.arcgis.com/datasets/NBS-Tz::regions
+Districts: http://hub.arcgis.com/datasets/57e6f26504994395bb97ccc531b66fb0_3
+Wards: http://hub.arcgis.com/datasets/NBS-Tz::wards
+Waterbodies: http://hub.arcgis.com/datasets/57e6f26504994395bb97ccc531b66fb0_0
